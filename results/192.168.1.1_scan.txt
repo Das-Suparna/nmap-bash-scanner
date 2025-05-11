@@ -1,0 +1,25 @@
+Welcome to Simple Nmap Bash Scanner
+Target IP or Domain: 192.168.1.1
+
+Scanning host: 192.168.1.1
+Results will be saved in results/192.168.1.1_scan.txt
+
+Running Ping Scan...
+Host is up (0.0010s latency).
+Nmap scan report for 192.168.1.1
+Host is up (0.0010s latency).
+
+Running Port Scan...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-05-11 12:34 UTC
+Nmap scan report for 192.168.1.1
+Host is up (0.0010s latency).
+Not shown: 999 closed ports
+
+Running OS Detection and Service Version Scan...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-05-11 12:35 UTC
+Nmap scan report for 192.168.1.1
+Host is up (0.0010s latency).
+OS: Linux 3.2 (Linux 3.x)
+Service Version: Apache httpd 2.4.46
+
+Scan completed. Check the file: results/192.168.1.1_scan.txt
