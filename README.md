@@ -19,8 +19,8 @@ nmap-bash-scanner/ <br>
 ├── README.md <br>
 ├── LICENSE <br>
 ├── results/ <br>
-        192.168.1.1_scan.txt <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        192.168.1.1_scan.txt <br>
 └── assets/ <br>
-        prompting.png <br>
-        scan.png <br>
-        result.png <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         prompting.png <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        scan.png <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        result.png <br>
