@@ -1,4 +1,4 @@
-# 🔍 Automated Network Reconnaissance using Nmap and Bash
+# 🔍 Automated Network Reconnaissance using Nmap and Bash  - DEVTOWN CYBER BASICS (SUPARNA DAS)
 
 ## 📖 Overview
 This project provides a beginner-friendly Bash script that automates basic network reconnaissance using Nmap.
